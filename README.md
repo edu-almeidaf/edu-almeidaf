@@ -16,7 +16,7 @@
 ## 
   
 <h3> 👨🏽‍🦱 Sobre Mim: <br></h3>
-Sou desenvolvedor Frontend Júnior e estudante de Desenvolvimento Web FullsFack na Trybe desde nov/2022.<br>
+Sou desenvolvedor Frontend Júnior e estudante de Desenvolvimento Web Fullstack na Trybe desde nov/2022.<br>
 Atualmente estou me especializando em React Hooks, Redux, React Testing Library e Iniciando meus estudos <br> em TypeScript, NextJS e backend.
 
 ## 
