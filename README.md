@@ -1,4 +1,4 @@
-## Hello World, Eu sou o Edu ✌🏽 Seja muito bem vindo(a) no meu Github 💚
+## Hello World, Eu sou o Edu ✌🏽 Seja muito bem vindo(a) ao meu Github 💚
 
 <h6> 💫 #desenvolvimentoweb, #computação, #react, #javascript, #html, #css e #tecnologia </h6>
 
