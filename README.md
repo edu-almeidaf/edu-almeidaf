@@ -6,7 +6,7 @@
 
 ###
   
-Na parte profissional, Trabalhei durante 1 ano como Desenvolvedor Web focado no framework Frontend VueJS, onde tive oportunidade em trabalhar desenvolvendo uma plataforma de alta escala de automação de call centers, CRM e gerenciamento de grande volume de dados em mailing. Atualmente estou  atuando em alguns projetos como freelancer.</p>
+Na parte profissional, Trabalhei durante pouco mais de 1 ano como Desenvolvedor Web focado no framework Frontend VueJS, onde tive oportunidade de participar do desenvolvimento de uma plataforma de alta escala de automação de call centers, CRM e gerenciamento de grande volume de dados em mailing. Atualmente estou atuando em alguns projetos como freelancer.</p>
 
 ###
 
