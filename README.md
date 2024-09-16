@@ -2,25 +2,39 @@
 
 ###
 
-Sou Eduardo, um desenvolvedor fullstack com foco principal em frontend. Estou na área desde 2022 e atuando profissionalmente desde 2023.
+## Quem sou eu?
+
+Sou Eduardo, desenvolvedor fullstack com foco principal no frontend. Iniciei minha jornada na programação em 2022 e, desde 2023, atuo profissionalmente com a stack React e Vue.js no frontend e Node.js no backend.
 
 ###
 
-Na minha trajetória profissional, trabalhei por pouco mais de 1 ano como desenvolvedor frontend utilizando o ecossistema do VueJS, onde tive oportunidade de participar do desenvolvimento de uma plataforma de automação de call centers, CRM e gerenciamento de grande volume de dados em mailing.
+## Experiência Profissional
 
-### 
-
-Atualmente estou atuando em alguns projetos como freelancer utilizando o ecossistema do React.
+Tive a oportunidade de trabalhar como desenvolvedor frontend por mais de 1 ano, usando o ecossistema Vue.js. Nesse período, participei do desenvolvimento de uma plataforma de automação de call centers, CRM e gerenciamento de grandes volumes de dados. Esse projeto me proporcionou uma visão abrangente de projetos de larga escala, desde o desenvolvimento até as regras de negócio e entrega ao cliente.
 
 ###
 
-Na parte de estudos, hoje estou aprofundando meus conhecimentos em NextJS e NodeJS e aprendendo sobre as ferramentas de Nuvem da AWS.
+## Projetos Atuais
+
+Atualmente, trabalho como freelancer, desenvolvendo soluções com o ecossistema React. Sempre buscando oferecer produtos de alta qualidade e alinhados com as necessidades dos clientes.
 
 ###
 
-Convido você a olhar meus melhores projetos pinados logo abaixo, onde demonstro minhas habilidades técnicas em desenvolvimento Web.
+## O que estou estudando
 
-<h3 align="left">Quer entrar em contato? Me envie mensagem em uma das redes abaixo:</h2>
+Estou continuamente me aprofundando em React com Next.js e expandindo meus conhecimentos no backend com Node.js. Além disso, estou explorando ferramentas de nuvem da AWS para aprimorar minhas habilidades em infraestrutura e serviços em nuvem.
+
+###
+
+## Explore meus projetos
+
+Confira alguns dos meus principais projetos pinados abaixo, onde demonstro minhas habilidades técnicas e criativas no desenvolvimento web.
+
+###
+
+## Vamos nos conectar?
+
+Fique à vontade para entrar em contato comigo por meio de uma das redes abaixo. Será um prazer conversar!
 
 ###
 
@@ -51,6 +65,8 @@ Convido você a olhar meus melhores projetos pinados logo abaixo, onde demonstro
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -59,14 +75,38 @@ Convido você a olhar meus melhores projetos pinados logo abaixo, onde demonstro
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-almeidaf&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edu-almeidaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
